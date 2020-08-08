@@ -1,3 +1,3 @@
 # Tindog-Website
-### tindg website using CSS
-### Preview at 
+#### tindog website using CSS
+#### Preview at 
